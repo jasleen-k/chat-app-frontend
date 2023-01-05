@@ -8,9 +8,9 @@ heroku.</a></p>
 
 ## Demo
 
-<img src="./public/register.png" width="500" title="register">
-<img src="./public/chooseAvatar.png" width="500" title="avatar">
-<img src="./public/chat.png" width="500" title="chat">
+<img src="./public/register.png" width="700" title="register">
+<img src="./public/chooseAvatar.png" width="700" title="avatar">
+<img src="./public/chat.png" width="700" title="chat">
 
 ## Try It Yourself
 
