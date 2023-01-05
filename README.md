@@ -8,11 +8,12 @@ heroku.</a></p>
 
 ## Demo
 
-<img src="./public/chat.png" width="350" title="chat">
-<img src="./public/chooseAvatar.png" width="350" title="avatar">
+<img src="./public/register.png" width="500" title="register">
+<img src="./public/chooseAvatar.png" width="500" title="avatar">
+<img src="./public/chat.png" width="500" title="chat">
 
 ## Try It Yourself
 
 <p>Make a new account or use one we've already made. </p>
-<p>email: test@gmail.com
-password: test12345 </p>
+<p>email: test@gmail.com</p>
+<p>password: test12345 </p>
